@@ -11,4 +11,5 @@
 </span>  
   
   
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eueu22)](https://solved.ac/eueu22/)
+<h4>🏆Rank🏆</h4>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eueu22)](https://solved.ac/eueu22)
