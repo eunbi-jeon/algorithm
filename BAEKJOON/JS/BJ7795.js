@@ -12,7 +12,7 @@ while(testCase--) {
     B = [...strToNum(input[inputIndex++])].sort((a, b) => a - b); //M 숫자 오름차순 정렬
 
     for(let i of A) {
-        answer += binarySearch(B, i) + 1; //인덱스가 -1로 초기화 되어 있기 때문에 0으로 만들어 주기 위헤 +1
+        answer += binarySearch(B, i) + 1; //인덱스가 -1로 초기화 되어 있기 때문에 +1
     }
 
     console.log(answer);
